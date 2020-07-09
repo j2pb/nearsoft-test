@@ -11,3 +11,13 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.h4{
+  font-size: 16px !important;
+  font-weight: 600 !important;
+}
+.issuedetails{
+  font-size: 12px;  
+}
+.text-gray{ 
+  color: #586069;
+}
